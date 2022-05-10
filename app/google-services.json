@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911461177834",
+    "firebase_url": "https://deliveryrecord-59848-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "deliveryrecord-59848",
+    "storage_bucket": "deliveryrecord-59848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911461177834:android:aef64347186ae7a884fa93",
+        "android_client_info": {
+          "package_name": "com.rickychan.deliveryrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911461177834-hpj9vs4317qcf96q1lr63iscgvhh14i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy6vj9ZvKSKSARBwR9fZZjoxpVxpnSyYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911461177834-hpj9vs4317qcf96q1lr63iscgvhh14i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
